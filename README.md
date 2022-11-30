@@ -1,4 +1,4 @@
-Git Flow
+# Git Flow
 
 Here you can find a very general introduction to the use of git and github. 
 
