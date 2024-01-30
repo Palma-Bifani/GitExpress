@@ -8,14 +8,14 @@ Learn the fundamental concepts and commands of Git version control, from initial
 
 # **Hands-On Activity**
 
-- 1 Create an empty remote repository and clone it locally 
-- 1 Create a file called `README.md` and write something in it.
-- 2 Follow the gitflow. (git status / git add * / git commit -m "message")
-- 3 Type `git log --oneline`. What do you get?
-- 4 Create a branch and move there. Check with `git status`
-- 5 In your branch create a new file called `test.py` which does a simple task (any task you want). 
-- 6 Create a commit to your current brach
-- 7 Type `git log --oneline`. What do you get?
-- 8 Remerge your branch and delete it. 
-- 9 Type `git log --oneline`. What do you get? Make a sketch of the workflow we just did.
-- 10 Now bupdate the remote repository.
+(Use `git log --graph --oneline --all` in every step)
+
+- Create an empty remote repository and clone it locally 
+- Create a file called `README.md` and write something in it.
+- Follow the gitflow: `git status` + `git add *` + `git commit -m "message"`
+- Create a new branch, add a new file, and commit.
+- Remerge your branch and delete it. 
+- Make an additional modification and commit.
+- Travel back a commit, create a new branch from here and edit the same file you modified in the previous step.
+- Merge your new branch with main, solving the possible conflicts.
+- Push your changes remotely.  
