@@ -9,7 +9,7 @@ Welcome to GitExpress, a comprehensive GitHub tutorial that covers the basics of
 ## Get this repository locally 
 
 ```ruby
-git clone https://github.com/your-username/GitExpress.git
+git clone https://github.com/Palma-Bifani/GitExpress.git
 ```
 
 
