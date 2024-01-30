@@ -1,8 +1,8 @@
 # GitExpress
 
-> [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-
 Welcome to GitExpress, a comprehensive GitHub tutorial that covers the basics of git version control and explores its application in web development and Python projects.
+
+> [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 
 
