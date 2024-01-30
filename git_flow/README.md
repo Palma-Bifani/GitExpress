@@ -1,12 +1,12 @@
 # GitExpress
 
-# **1/ Git basic flow**
+## **1/ Git basic flow**
 
 Learn the fundamental concepts and commands of Git version control, from initialization to collaboration.
 
 ***
 
-# **Hands-On Activity**
+## **Hands-On Activity**
 
 (Use `git log --graph --oneline --all` in every step)
 
@@ -16,6 +16,6 @@ Learn the fundamental concepts and commands of Git version control, from initial
 - Create a new branch, add a new file, and commit.
 - Remerge your branch and delete it. 
 - Make an additional modification and commit.
-- Travel back a commit, create a new branch from here and edit the same file you modified in the previous step.
-- Merge your new branch with main, solving the possible conflicts.
+- Travel back a commit, create a new branch from here, and edit the file you modified in the previous step.
+- Merge your new branch with the main one, solving the possible conflicts.
 - Push your changes remotely.  
