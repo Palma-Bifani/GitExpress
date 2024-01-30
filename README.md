@@ -13,7 +13,7 @@ Here, you will learn the fundamental concepts and commands of git version contro
 
 ## Useful applications
 
-### **Python packages**
+### **i. Python packages**
 
 Plenty of information is online, but you can check the following links to release a Python package through PyPI (`pip install`). 
 
@@ -31,7 +31,7 @@ Science and Commit is an adapted version of Code/Astro that I did with Paula Cá
 <img src="git_flow/img/scienceandcommmit.png" width="200">
 
 
-### **Personal webpage**
+### **ii. Personal webpage**
 
 You can integrate git into web development projects and create a personal webpage with GitHub Pages.
 
@@ -42,7 +42,7 @@ Examples:
 - [https://semaphorep.github.io/codeastro/](https://semaphorep.github.io/codeastro/)
 
 
-### **Overleaf**
+### **iii. Overleaf**
 
 You can track changes of your papers and other important documents using Overleaf.
 
