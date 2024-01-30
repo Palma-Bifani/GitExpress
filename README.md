@@ -28,7 +28,7 @@ Code/Astro is a workshop aiming to teach astronomers good practice to develope o
 
 Science and Commit is an adapted version of Code/Astro that I did with Paula Cáceres, Rafael Martínez, and José Vines. It aims to increase collaboration among Spanish-speaking students during the pandemic in Chile.
 
-![Science&Commit](git_flow/img/scienceandcommmit.png =250x)
+![](./git_flow/img/scienceandcommmit.png =250x)
 
 
 ### **Personal webpage**
