@@ -2,7 +2,7 @@
 
 ## **1/ Git basic flow**
 
-Learn the fundamental concepts and commands of Git version control, from initialization to collaboration.
+Learn the fundamental concepts and commands of git version control, from initialization to collaboration and solving conflicts.
 
 ***
 

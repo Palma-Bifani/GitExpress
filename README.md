@@ -1,38 +1,40 @@
 # GitExpress
 
-Welcome to GitExpress, a comprehensive GitHub tutorial that covers the basics of git version control and explores its application in web development and Python projects.
+Welcome to GitExpress, a comprehensive GitHub tutorial that covers the basics of git version control.
 
 > [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 
 
-## Get this repository locally 
+## **Git flow**
 
-```ruby
-git clone https://github.com/Palma-Bifani/GitExpress.git
-```
+Learn the fundamental concepts and commands of git version control, from initialization to collaboration and solving conflicts.
 
 
-## Modules
+*** 
 
-### **1. Git flow**
+## Applications
 
-Learn the fundamental concepts and commands of Git version control, from initialization to collaboration.
-
-
-
-### **2. Git webpage**
-
-Integrate Git into web development projects, manage branches for features, and create a personal webpage with GitHub Pages.
-
-
-
-### **3. Git packages**
+### **Python packages**
 
 Apply Git version control to Python projects, from initializing repositories to publishing packages on PyPI.
 
+> [Science and Commit](https://github.com/Science-and-Commit/Workshop_2022)
 
 
-## Notes
+> [Code/Astro](https://github.com/semaphoreP/codeastro/tree/main)
 
-Contributions are welcome! If you have any issues or suggestions, please open an issue or submit a pull request.
+Applications for [Code/Astro 2024](https://semaphorep.github.io/codeastro/) are open! Don't miss this opportunity.
+
+
+
+### **Personal webpage**
+
+You can integrate git into web development projects and create a personal webpage with GitHub Pages.
+
+> [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
+
+
+*** 
+
+> Contributions are welcome! If you have any issues or suggestions, please open an issue or submit a pull request.
