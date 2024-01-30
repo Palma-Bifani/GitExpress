@@ -21,7 +21,7 @@ Plenty of information is online, but you can check the following links to releas
 
 Code/Astro is a workshop aiming to teach astronomers good practice to develope open source Python packages. Applications for [Code/Astro 2024](https://semaphorep.github.io/codeastro/) are open, don't miss this amazing opportunity!
 
-<img src="git_flow/img/codeastro.png" width="100">
+<img src="git_flow/img/codeastro.png" width="50">
 
 
 - [Science and Commit](https://github.com/Science-and-Commit/Workshop_2022)
