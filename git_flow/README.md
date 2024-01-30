@@ -4,19 +4,9 @@
 
 Learn the fundamental concepts and commands of Git version control, from initialization to collaboration.
 
-Installation - Concepts - Local Workflow - Branches - Remote Workflow - Conflicts
-
-
-
-
-Collaboration
-
-Forking repositories and creating pull requests.
-
-
 ***
 
-# **Activity**
+# **Hands-On Activity**
 
 - 1 Create an empty remote repository and clone it locally 
 - 1 Create a file called `README.md` and write something in it.
