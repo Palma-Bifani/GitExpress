@@ -1,8 +1,8 @@
 # GitExpress: A GitHub Tutorial
 
+**A GitHub Tutorial**
 
-**Watch the Tutorial Video:**
-   - [Introduction to GitExpress Basic Flow](https://www.youtube.com/watch?v=your-video-id)
+[What is GitHub?](https://www.youtube.com/watch?v=your-video-id)
 
 
 Welcome to GitExpress, a comprehensive GitHub tutorial that covers the basics of Git version control and explores its application in web development and Python projects.
