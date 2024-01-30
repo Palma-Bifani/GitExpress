@@ -2,10 +2,19 @@
 
 **A GitHub Tutorial**
 
-[What is GitHub?](https://www.youtube.com/watch?v=your-video-id)
+[What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 
 Welcome to GitExpress, a comprehensive GitHub tutorial that covers the basics of Git version control and explores its application in web development and Python projects.
+
+
+## Get this repository locally 
+
+```ruby
+cd path/to/your/work/directory/
+git clone 'https://github.com/your-username/GitExpress.git'
+```
+
 
 ## Modules
 
@@ -14,8 +23,6 @@ Welcome to GitExpress, a comprehensive GitHub tutorial that covers the basics of
 Learn the fundamental concepts and commands of Git version control, from initialization to collaboration.
 
 Installation - Concepts - Local Workflow - Branches - Remote Workflow - Conflicts
-
-
 
 
 **2. Webpage**
@@ -33,13 +40,6 @@ Repository - Structure - Releases - Collaborating - Publishing to PyPI
 
 
 
-Clone this repository:
+## Notes
 
-```ruby
-cd path/to/your/work/directory/
-git clone https://github.com/your-username/GitExpress.git
-```
-
-
-
-Contributions are welcome! If you find any issues or have improvements to suggest, please open an issue or submit a pull request.
+Contributions are welcome! If you have any issues or suggestions, please open an issue or submit a pull request.
