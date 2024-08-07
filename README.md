@@ -10,7 +10,7 @@ Here, you will learn the fundamental concepts and commands of git version contro
 
 ## **Packages**
 
-Here, you will learn how to create a python package, with all that it involves.
+Here, you will learn how to create a Python package with all it involves.
 
 *** 
 
@@ -18,9 +18,9 @@ Here, you will learn how to create a python package, with all that it involves.
 
 ### **i. Personal webpage**
 
-You can integrate git into web development projects and create a personal webpage with GitHub Pages.
+You can integrate Git into web development projects and create a personal webpage with GitHub Pages.
 
-- Quickstart for GitHub Pages [here.](https://docs.github.com/en/pages/quickstart)
+> Quickstart for GitHub Pages [here.](https://docs.github.com/en/pages/quickstart)
 
 Examples:
 - [https://science-and-commit.github.io](https://science-and-commit.github.io)
