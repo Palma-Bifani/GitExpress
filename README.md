@@ -8,6 +8,9 @@
 
 Here, you will learn the fundamental concepts and commands of git version control, from initialization to collaboration and conflict resolution.
 
+## **Packages**
+
+Here, you will learn how to create a python package, with all that it involves.
 
 *** 
 
@@ -31,4 +34,4 @@ You can track changes of your papers and other important documents using Overlea
 
 *** 
 
-> Contributions are welcome! If you have any issues or suggestions, please open an `issue` or submit a `pull request`.
+Contributions are welcome! If you have any issues or suggestions, please open an `issue` or submit a `pull request`.
